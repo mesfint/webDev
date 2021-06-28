@@ -1,2 +1,3 @@
 # webDev
-refreshing web dev learning
+Refreshing web dev learning
+-Learn by doing
